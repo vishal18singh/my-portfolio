@@ -29,7 +29,7 @@ console.log(profile);
                         <a href="#skills" onClick={closeMenu}>Skills</a>
                     </li>
                     <li>
-                        <a href="#project" onClick={closeMenu}>Projects</a>
+                        <a href="#projects" onClick={closeMenu}>Projects</a>
                     </li>
                     <li>
                         <a href="#journey" onClick={closeMenu}>Journey</a>
